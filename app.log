@@ -1,0 +1,36 @@
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+root - INFO - Converting embeddings to 2D space
+root - INFO - Clustering
+2023-06-30 18:06:42,965 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2023-06-30 18:06:43,266 INFO Use pytorch device: cpu
+2023-06-30 18:06:44,050 INFO Converting embeddings to 2D space
+2023-06-30 18:10:40,996 INFO Clustering
+2023-06-30 18:15:30,701 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2023-06-30 18:15:31,013 INFO Use pytorch device: cpu
+2023-06-30 18:15:31,812 INFO Converting embeddings to 2D space
+2023-06-30 18:19:27,897 INFO Clustering
+2023-06-30 18:19:28,209 INFO Preparing data for visualization
+2023-06-30 18:19:28,244 INFO Getting most frequent words for each cluster
+2023-06-30 18:19:29,490 INFO Creating dataframe for words and their counts
+2023-06-30 18:20:25,300 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2023-06-30 18:20:25,579 INFO Use pytorch device: cpu
+2023-06-30 18:20:26,340 INFO Converting embeddings to 2D space
+2023-06-30 18:27:03,135 INFO Clustering
+2023-06-30 18:27:03,564 INFO Preparing data for visualization
+2023-06-30 18:27:03,613 INFO Getting most frequent words for each cluster
+2023-06-30 18:27:05,161 INFO Creating dataframe for words and their counts
+2023-06-30 18:28:30,769 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2023-06-30 18:28:31,068 INFO Use pytorch device: cpu
+2023-06-30 18:28:31,773 INFO Converting embeddings to 2D space
+2023-06-30 18:35:04,339 INFO Clustering
+2023-06-30 18:35:04,454 INFO Preparing data for visualization
+2023-06-30 18:35:04,530 INFO Getting most frequent words for each cluster
+2023-06-30 18:35:06,179 INFO Creating dataframe for words and their counts
+2023-06-30 18:36:04,575 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2023-06-30 18:36:04,867 INFO Use pytorch device: cpu
+2023-06-30 18:36:05,643 INFO Converting embeddings to 2D space
+2023-06-30 18:43:02,622 INFO Clustering
+2023-06-30 18:43:02,747 INFO Preparing data for visualization
+2023-06-30 18:43:02,822 INFO Getting most frequent words for each cluster
+2023-06-30 18:43:04,383 INFO Creating dataframe for words and their counts
